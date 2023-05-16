@@ -1,4 +1,3 @@
-print("This is program of THREE ADDRESS CODE GENERATOR using Pyhton.\n\f MADE BY:- ABHISHEK MISHRA")
 import pandas as pd
 import copy
 try: 
