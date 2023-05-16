@@ -1,4 +1,5 @@
 # Code-Generation
+Compiler-Design-Project
 The program takes equations from a CSV file and generates TAC instructions accordingly. It analyzes the equations and uses a set of predefined operators and operands to generate the code. The generated TAC instructions represent a low-level representation of the equations, breaking them down into simple operations.
 
 The program begins by reading the input CSV file and displaying its contents. It then processes each equation and generates TAC instructions based on the structure of the equation.
